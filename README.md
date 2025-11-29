@@ -7,7 +7,7 @@
 Created by **Vektor T13** | Maintained by **kdmeena** |⚡Works in 2025! |⏱️ Setup time: ~30 minutes
 
 ## 📥 Download
-- **Primary**: [GitHub Releases](https://github.com/Batlez/CloakBox/releases)
+- **Primary**: [GitHub Releases](https://github.com/Kdmeenaa/CloakBox/releases)
 - **Virus Scan**: [VirusTotal Scan](https://www.virustotal.com/gui/file/17ba6063ba20eba0ffc6538609d0cd216e015efd146e6e82e7de33e743cd8905/detection)
 
 ## 🎯 What it bypasses
