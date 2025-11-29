@@ -1,7 +1,5 @@
 # CloakBox - VM Detection Bypass 🛡️
 
-> **⚠️ NOTICE: This project is no longer being actively updated. For support questions, please contact Enver3268 on Discord.**
-
 **Bypass virtual machine detection using a custom VirtualBox fork**
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Batlez/CloakBox/total?style=for-the-badge)
