@@ -15,12 +15,11 @@ Created by **Vektor T13** | Maintained by **kdmeena** |⚡Works in 2025! |⏱️
 
 <details>
 <summary>Click ME to see pictures of Cloakbox bypassing</summary>
-   
-![image](https://github.com/Batlez/HiddenVM/assets/63690709/51e1df60-4338-4da9-b5a3-ffe61c054797)
-![image](https://github.com/Batlez/HiddenVM/assets/63690709/9f3ae77a-2bea-4824-bf3f-24556fb54045)
-![image](https://github.com/Batlez/HiddenVM/assets/63690709/438c960f-f712-4016-8f92-0ad2c731a8bc)
-![image](https://github.com/Batlez/HiddenVM/assets/63690709/17213a48-d6f3-4f82-87ac-2cb2f6f197f4)
-![image](https://github.com/Batlez/HiddenVM/assets/63690709/47acefba-842b-4493-ad16-4709b9039dbc)
+<img width="1920" height="1021" alt="1" src="https://github.com/user-attachments/assets/1af2116c-e69a-4379-bc39-655fad572164" />
+<img width="1920" height="1018" alt="2" src="https://github.com/user-attachments/assets/a505ffd0-56dc-4e1b-8502-07ab5c20c52e" />
+<img width="1920" height="1021" alt="3" src="https://github.com/user-attachments/assets/22487ead-923f-4547-a1ea-a01b788a60c8" />
+<img width="1019" height="760" alt="4" src="https://github.com/user-attachments/assets/449757c6-12b3-4b73-8143-1c95123f3fab" />
+<img width="1021" height="760" alt="5" src="https://github.com/user-attachments/assets/21845d07-daad-4f07-a10a-18062891fb22" />
 
 </details>
 <details>
